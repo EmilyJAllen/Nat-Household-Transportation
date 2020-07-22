@@ -1,6 +1,6 @@
 # Nat-Household-Tavel
 
-Datasets:
+Datasets: available at https://nhts.ornl.gov/downloads
 - hhpub   = survey questions for household units
 - perpub  = survey questions per person
 - trippub = survey questions about trips taken
